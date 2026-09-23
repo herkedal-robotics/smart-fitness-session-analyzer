@@ -29,7 +29,12 @@ Insufficient data and recovery are checked before the other classifications:
 
 Run the program and tests (on Windows):
 
+git clone https://github.com/herkedal-robotics/smart-fitness-session-analyzer.git 
+
+cd smart-fitness-session-analyzer
+
 py main.py
+
 py tests.py
 
 No third-party packages are required. The project uses basic Python and standard library.
